@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-fanatic&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-fanatic" /> </p>
 
 - 👀 I’m interested in **Software Developement**
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **JAVA**
 - 💞️ I’m looking to collaborate on coding projects 
 - 📫 How to reach me: **officialpriyansh23@gmail.com**
 - 😄 Pronouns: He/Him
