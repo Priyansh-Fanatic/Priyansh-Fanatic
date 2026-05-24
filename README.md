@@ -20,18 +20,33 @@
 
 ---
 
-<img align="right" alt="coding gif" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
-
 ## 👨‍💻 About Me
 
-- 🔭 I'm a **dedicated software developer** who enjoys crafting creative solutions
-- 🌱 Currently deepening my expertise in **Java** and backend systems
-- 💡 Passionate about **building things** that solve real-world problems
-- 🤝 Open to **collaborating** on interesting open source projects
-- 📫 Reach me at: **officialpriyansh23@gmail.com**
-- 😄 Pronouns: **He / Him**
+<table>
+<tr>
+<td valign="top" width="55%">
 
-<br clear="right"/>
+### Hi, I'm Priyansh — a passionate Software Developer 🚀
+
+I love turning ideas into real, working products. Whether it's a sleek web app, a blazing-fast API, or a data pipeline — I enjoy the full journey from problem to solution.
+
+**What drives me:**
+
+- 🔭 &nbsp; Crafting clean, creative software solutions
+- 🌱 &nbsp; Currently sharpening my skills in **Java** & system design
+- 🤝 &nbsp; Always open to **collaborating** on meaningful projects
+- 💡 &nbsp; Believer in learning by building
+- 📫 &nbsp; Reach me at **officialpriyansh23@gmail.com**
+- 😄 &nbsp; Pronouns: **He / Him**
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="320" alt="Coding GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
