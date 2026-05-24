@@ -9,6 +9,12 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=priyansh-fanatic&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/priyansh-developer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://priyansh-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
 <a href="https://twitter.com/priyansh___23"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 &nbsp;
@@ -107,6 +113,20 @@ I love turning ideas into real, working products. Whether it's a sleek web app, 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=priyansh-fanatic&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh-fanatic/priyansh-fanatic/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansh-fanatic/priyansh-fanatic/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/priyansh-fanatic/priyansh-fanatic/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
