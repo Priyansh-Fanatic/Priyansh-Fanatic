@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=priyansh-fanatic&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://views.igorkowalczyk.dev/api/badge/priyansh-fanatic?style=flat&label=Profile+Views&color=0e75b6" alt="Profile Views" />
 
 <br/>
 
@@ -102,10 +102,10 @@ I love turning ideas into real, working products. Whether it's a sleek web app, 
 <div align="center">
 
 <a href="https://github.com/priyansh-fanatic">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyansh-fanatic&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Priyansh's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyansh-fanatic&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Priyansh's GitHub Stats"/>
 </a>
 <a href="https://github.com/priyansh-fanatic">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyansh-fanatic&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-fanatic&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </a>
 
 </div>
@@ -136,7 +136,7 @@ I love turning ideas into real, working products. Whether it's a sleek web app, 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=priyansh-fanatic&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=priyansh-fanatic&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -146,7 +146,7 @@ I love turning ideas into real, working products. Whether it's a sleek web app, 
 
 <div align="center">
 
-[![Priyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyansh-fanatic&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Priyansh's github activity graph](https://github-readme-activity-graph-peach.vercel.app/graph?username=priyansh-fanatic&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -161,7 +161,7 @@ I love turning ideas into real, working products. Whether it's a sleek web app, 
 
 *"The best way to predict the future is to invent it."*
 
-[![](https://visitcount.itsvg.in/api?id=priyansh-fanatic&icon=5&color=6)](https://visitcount.itsvg.in)
+<br/>
 
 <sub>⭐ Star some repos if you find them helpful! · Made with ❤️ by Priyansh</sub>
 
